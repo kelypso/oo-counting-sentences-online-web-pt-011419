@@ -1,6 +1,8 @@
 class String
-  def sentence 
-    
+  def sentence(string) 
+    return true if string.ends_with?(".")
+    else return false
+    end
   end
   
   
