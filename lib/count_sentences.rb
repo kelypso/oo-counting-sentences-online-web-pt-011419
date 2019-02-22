@@ -13,7 +13,7 @@ class String
     else
       return false
     end
-    nd
+  end
     
     
 end
