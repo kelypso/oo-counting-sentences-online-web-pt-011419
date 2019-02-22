@@ -1,4 +1,36 @@
-require 'pry'
+class String
+  def sentence?
+    if self.end_with?(".") == true
+      return true
+    else
+      return false
+    end
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=begin
 
 class String
 
@@ -31,3 +63,5 @@ class String
     return new_array
   end
 end
+
+=end
