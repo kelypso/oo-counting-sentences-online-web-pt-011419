@@ -6,7 +6,9 @@ class String
       return false
     end
     
-    
+    def question?
+      
+    end
 end
 
 
