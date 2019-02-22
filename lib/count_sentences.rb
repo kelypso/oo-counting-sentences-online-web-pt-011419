@@ -5,6 +5,7 @@ class String
     else
       return false
     end
+  end
     
   def question?
     if self.end_with?("?") == true
@@ -12,6 +13,9 @@ class String
     else
       return false
     end
+    nd
+    
+    
 end
 
 
